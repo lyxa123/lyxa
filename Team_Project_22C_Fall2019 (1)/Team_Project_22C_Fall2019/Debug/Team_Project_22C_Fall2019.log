@@ -1,0 +1,8 @@
+﻿  Database.cpp
+  Driver.cpp
+c:\users\lyxat\downloads\team_project_22c_fall2019 (1)\team_project_22c_fall2019\driver.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  StringHashTable.cpp
+c:\users\lyxat\downloads\team_project_22c_fall2019 (1)\team_project_22c_fall2019\singlylinkedlist.h(431): warning C4309: 'initializing': truncation of constant value
+  c:\users\lyxat\downloads\team_project_22c_fall2019 (1)\team_project_22c_fall2019\stringhashtable.cpp(209): note: see reference to function template instantiation 'std::ostream &operator <<<StringHashTable::tuple>(std::ostream &,const SinglyLinkedList<StringHashTable::tuple> &)' being compiled
+  Generating Code...
+  Team_Project_22C_Fall2019.vcxproj -> C:\Users\lyxat\Downloads\Team_Project_22C_Fall2019 (1)\Debug\Team_Project_22C_Fall2019.exe
